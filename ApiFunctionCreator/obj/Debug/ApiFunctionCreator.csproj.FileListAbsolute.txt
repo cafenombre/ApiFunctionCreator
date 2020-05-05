@@ -1,0 +1,7 @@
+C:\Users\tglotin\source\repos\ApiFunctionCreator\ApiFunctionCreator\bin\Debug\ApiFunctionCreator.exe.config
+C:\Users\tglotin\source\repos\ApiFunctionCreator\ApiFunctionCreator\bin\Debug\ApiFunctionCreator.exe
+C:\Users\tglotin\source\repos\ApiFunctionCreator\ApiFunctionCreator\bin\Debug\ApiFunctionCreator.pdb
+C:\Users\tglotin\source\repos\ApiFunctionCreator\ApiFunctionCreator\obj\Debug\ApiFunctionCreator.csprojAssemblyReference.cache
+C:\Users\tglotin\source\repos\ApiFunctionCreator\ApiFunctionCreator\obj\Debug\ApiFunctionCreator.csproj.CoreCompileInputs.cache
+C:\Users\tglotin\source\repos\ApiFunctionCreator\ApiFunctionCreator\obj\Debug\ApiFunctionCreator.exe
+C:\Users\tglotin\source\repos\ApiFunctionCreator\ApiFunctionCreator\obj\Debug\ApiFunctionCreator.pdb
